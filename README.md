@@ -29,7 +29,7 @@ The goal is to develop a pricing model that accurately predicts the market value
 - Model Performance Evaluation
 
 ## Dataset
-The dataset contains key attributes influencing the resale price of used cars:
+The dataset contains key attributes influencing the resale price of used cars. By leveraging machine learning, this model aims to bring transparency and accuracy to used car pricing, benefiting both buyers and sellers in the market.
 
 ### Target Variable
 - Price: The resale price of the used car (in INR 100,000)
@@ -49,5 +49,3 @@ The dataset contains key attributes influencing the resale price of used cars:
 ### Market Factors
 - Location: City where the car is available for sale
 - New Price: Price of a new car of the same model (INR 100,000)
-
-By leveraging machine learning, this model aims to bring transparency and accuracy to used car pricing, benefiting both buyers and sellers in the market.
